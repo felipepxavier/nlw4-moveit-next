@@ -1,6 +1,7 @@
 {
   "name": "moveit-next",
   "version": "0.1.0",
+  "description": "App has using nextjs and typescript.",
   "private": true,
   "scripts": {
     "dev": "next dev",
